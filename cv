@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html>
+    
+    <head>
+        <style>
+            img {
+              display: block;
+              margin-left: auto;
+              margin-right: auto;
+            }
+            </style>
+        <title>CV Muhammad Amir Al-Aqwa</title>
+    </head>
+
+<img style="border: 10px solid salmon; border-radius: 1000px;" src="haha.jpg" alt="gambar cwk" width="100" class="center">
+
+    <body>
+        <h1 align="center" style="color: burlywood;" ">Muhammad Amir Al-Aqwa </h1>
+        <h3 align="center">Seorang pemuda yang sering dibilang CINA padahal aslinya BUKAN</h3>
+        <p>NIM : 0110223032</p>
+        <P>Telp : 0819-0876-1118</P>
+    </body>
+    <hr>
+        <h3>Riwayat Pendidikan</h3>
+        <ul>
+            <li>MI ATTAQWA 28</li>
+            <li>PPA AL-AMANAH</li>
+            <li>STT TERPADU NURUL FIKRI</li>
+        </ul>
+
+   
+
+
+</html>
