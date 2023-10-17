@@ -12,7 +12,7 @@
         <title>CV Muhammad Amir Al-Aqwa</title>
     </head>
 
-<img style="border: 10px solid salmon; border-radius: 1000px;" src="haha.jpg" alt="gambar cwk" width="100" class="center">
+<img style="border: 10px solid salmon; border-radius: 1000px;" src="bajigur.JPG" alt="gambar cwk" width="100" class="center">
 
     <body>
         <h1 align="center" style="color: burlywood;" ">Muhammad Amir Al-Aqwa </h1>
@@ -26,6 +26,13 @@
             <li>MI ATTAQWA 28</li>
             <li>PPA AL-AMANAH</li>
             <li>STT TERPADU NURUL FIKRI</li>
+        </ul>
+
+
+        <ul>
+            <h3>Hobi</h3>
+            <li>ngoding</li>
+            <li>oprek komputer</li>
         </ul>
 
    
