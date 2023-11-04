@@ -1,0 +1,40 @@
+#header{
+background-color: burlywood;
+text-align: center;
+color: blue;
+padding: 2%;
+}
+
+#quote{
+    background-color: rgb(243, 243, 0);
+    padding: 20px;
+    color: black;
+    border-style: dashed;
+    border-width: 1px;
+}
+
+.navbar{
+display: inline;
+padding-left: 50%;
+}
+
+ul, li{
+    list-style-type: none;
+    display: flex;
+    justify-content: center;
+    padding: 5px;
+}
+
+.gambar{
+    display: flex;
+    justify-content: center;
+}
+
+.kapital{
+    font-size: 48px;
+    color: blue;
+}
+
+.isi{
+ text-align: justify;
+}
