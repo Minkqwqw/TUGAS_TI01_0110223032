@@ -1,0 +1,38 @@
+body {
+    flex-direction: column;
+    display: flex;
+    min-height: 100vh;
+}
+
+header, footer, article, nav, aside {
+    padding: 1em;
+}
+
+header, footer {
+    background-color:yellow;
+    height: 12vh;
+    width: 80vw;
+}
+
+nav {
+    background-color: pink;
+    width: 20vw;
+}
+
+article {
+    flex: 1;
+    height: 60vh;
+}
+
+aside {
+    background-color: aquamarine;
+    width: 20vw;
+}
+
+#kontainer1 {
+    display: flex;
+}
+
+#content {
+    display: flex;
+}
