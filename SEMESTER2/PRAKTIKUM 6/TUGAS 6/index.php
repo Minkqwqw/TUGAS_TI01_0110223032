@@ -1,6 +1,6 @@
 <?php
 
-    include 'koneksi.php';
+    include 'konek.php';
 
 
     // show data
